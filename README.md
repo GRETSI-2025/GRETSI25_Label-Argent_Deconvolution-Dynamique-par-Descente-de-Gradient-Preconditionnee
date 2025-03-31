@@ -38,9 +38,8 @@ Assurez-vous d’avoir installé les éléments suivants :
 ---
 
 **Auteur :** 
-Joseph Gabet — joseph.gabet@centralesupelec.fr
-Charles Soussen — charles.soussen@centralesupelec.fr
-Maxime Ferreira Da Costa — maxime.ferreira@centralesupelec.fr
-
+- Joseph Gabet — joseph.gabet@centralesupelec.fr
+- Maxime Ferreira Da Costa — maxime.ferreira@centralesupelec.fr
+- Charles Soussen — charles.soussen@centralesupelec.fr
 
 
