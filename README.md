@@ -27,8 +27,8 @@ Assurez-vous d’avoir installé les éléments suivants :
 
 ## Structure du projet
 
-- `dynamique.ipynb` : expériences de la partie 4.1
-- `comparaisons.ipynb` : expériences de la partie 4.2
+- `comparaisons.ipynb` : expériences de la partie 4.1
+- `dynamique.ipynb` : expériences de la partie 4.2
 
 ## Remarques
 
