@@ -1,0 +1,6 @@
+# requirements.txt
+
+# Bibliothèques externes utilisées dans les notebooks
+numpy
+matplotlib
+scipy
