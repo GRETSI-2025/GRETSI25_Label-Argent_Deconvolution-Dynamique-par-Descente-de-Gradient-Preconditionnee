@@ -15,6 +15,17 @@ Assurez-vous d’avoir installé les éléments suivants :
 
 > Vous pouvez également utiliser un environnement virtuel si vous préférez isoler les dépendances.
 
+## Installation des dépendances
+
+Ce projet utilise quelques bibliothèques Python pour le calcul scientifique, les statistiques et la visualisation.  
+Les dépendances nécessaires sont listées dans le fichier `requirements.txt`.
+
+Pour installer toutes les dépendances, utilisez la commande suivante :
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Exécution
 
 1. Ouvrez un terminal et placez-vous dans le répertoire du projet.
